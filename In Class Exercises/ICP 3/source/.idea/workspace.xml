@@ -115,9 +115,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="955" />
-    <option name="y" value="26" />
+    <option name="y" value="25" />
     <option name="width" value="995" />
     <option name="height" value="970" />
   </component>
@@ -141,7 +141,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sample2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.symdif">
+  <component name="RunManager" selected="Python.1-b">
     <configuration name="1-b-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sample3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,9 +270,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1-b" />
         <item itemvalue="Python.symdif" />
         <item itemvalue="Python.web" />
-        <item itemvalue="Python.1-b" />
         <item itemvalue="Python.1-b-2" />
         <item itemvalue="Python.splitting codons" />
       </list>

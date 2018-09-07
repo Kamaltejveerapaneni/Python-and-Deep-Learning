@@ -3,7 +3,7 @@ import re
 from collections import Counter
 
 codict = {}
-with open("C:\\Users\kamal\PycharmProjects\sample3\codon.tsv") as tsvfile:
+with open("C:\\Users\kamal\Documents\Github\Python-and-Deep-Learning\In Class Exercises\ICP 3\source\codon.tsv") as tsvfile:#read from tsv file
   reader = csv.reader(tsvfile, delimiter='\t')
   for cols in reader:
     codict[cols[0]] = cols[1]
