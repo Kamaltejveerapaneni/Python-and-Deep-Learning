@@ -1,0 +1,1507 @@
+None
+ Wikipedia:Good_articles
+ Wikipedia:Protection_policy#semi
+#mw-head
+#p-search
+ File:Python_logo_and_wordmark.svg
+ Programming_paradigm
+ Object-oriented_programming
+ Imperative_programming
+ Functional_programming
+ Procedural_programming
+ Reflective_programming
+ Software_design
+ Guido_van_Rossum
+ Software_developer
+ Python_Software_Foundation
+#cite_note-guttag-1
+ Software_release_life_cycle
+#cite_note-2
+#cite_note-3
+ Type_system
+ Duck_typing
+ Dynamic_typing
+ Strong_typing
+ Gradual_typing
+#cite_note-4
+ Software_license
+ Python_Software_Foundation_License
+ Filename_extension
+#cite_note-5
+#cite_note-6
+https://www.python.org/
+ Programming_language_implementation
+ CPython
+ IronPython
+ Jython
+ MicroPython
+ Numba
+ PyPy
+ Stackless_Python
+ Dialect_(computing)
+ Cython
+ RPython
+ ABC_(programming_language)
+#cite_note-faq-created-7
+ ALGOL_68
+#cite_note-98-interview-8
+ APL_(programming_language)
+#cite_note-9
+ C_(programming_language)
+#cite_note-AutoNT-1-10
+ C%2B%2B
+#cite_note-classmix-11
+ CLU_(programming_language)
+#cite_note-effbot-call-by-object-12
+ Dylan_(programming_language)
+#cite_note-AutoNT-2-13
+ Haskell_(programming_language)
+#cite_note-AutoNT-3-14
+ Icon_(programming_language)
+#cite_note-AutoNT-4-15
+ Java_(programming_language)
+#cite_note-AutoNT-5-16
+ Lisp_(programming_language)
+#cite_note-AutoNT-6-17
+ Modula-3
+#cite_note-classmix-11
+ Perl
+ Standard_ML
+#cite_note-18
+ Boo_(programming_language)
+ Cobra_(programming_language)
+ CoffeeScript
+#cite_note-19
+ D_(programming_language)
+ F_Sharp_(programming_language)
+ Falcon_(programming_language)
+ Genie_(programming_language)
+#cite_note-20
+ Go_(programming_language)
+ Apache_Groovy
+ JavaScript
+#cite_note-21
+#cite_note-22
+ Julia_(programming_language)
+#cite_note-Julia-23
+ Nim_(programming_language)
+ Ring_(programming_language)
+#cite_note-The_Ring_programming_language_and_other_languages-24
+ Ruby_(programming_language)
+#cite_note-bini-25
+ Swift_(programming_language)
+#cite_note-lattner2014-26
+ File:Wikibooks-logo-en-noslogan.svg
+https://en.wikibooks.org Python_Programming
+ Interpreted_language
+ High-level_programming_language
+ General-purpose_programming_language
+ Guido_van_Rossum
+ Code_readability
+ Significant_whitespace
+#cite_note-AutoNT-7-27
+#cite_note-28
+#cite_note-29
+ Dynamic_type
+ Memory_management
+ Programming_paradigm
+ Object-oriented_programming
+ Imperative_programming
+ Functional_programming
+ Procedural_programming
+ Standard_library
+#cite_note-About-30
+ Operating_system
+ CPython
+ Reference_implementation
+ Open_source
+#cite_note-31
+ Python_Software_Foundation
+#History
+#Features_and_philosophy
+#Syntax_and_semantics
+#Indentation
+#Statements_and_control_flow
+#Expressions
+#Methods
+#Typing
+#Mathematics
+#Libraries
+#Terminology:_Modules_and_packages
+#Development_environments
+#Implementations
+#Reference_implementation
+#Other_implementations
+#Unsupported_implementations
+#Cross-compilers_to_other_languages
+#Performance
+#Development
+#Naming
+#API_documentation_generators
+#Uses
+#Languages_influenced_by_Python
+#See_also
+#References
+#Further_reading
+#External_links
+ File:Guido_van_Rossum_OSCON_2006.jpg
+ File:Guido_van_Rossum_OSCON_2006.jpg
+ Guido_van_Rossum
+ History_of_Python
+#cite_note-venners-interview-pt-1-32
+#cite_note-timeline-of-python-33
+ Guido_van_Rossum
+ Centrum_Wiskunde_%26_Informatica
+ Netherlands
+ ABC_(programming_language)
+ SETL
+#cite_note-AutoNT-12-34
+ Exception_handling
+ Amoeba_(operating_system)
+#cite_note-faq-created-7
+ Benevolent_Dictator_For_Life
+#cite_note-lj-bdfl-resignation-35
+#cite_note-36
+ ABC_(programming_language)
+ Unix
+ C_(programming_language)
+ Hacker_(programmer_subculture)
+ Monty_Python%27s_Flying_Circus
+ Cycle_detection
+ Garbage_collection_(computer_science)
+ Unicode
+#cite_note-newin-2.0-37
+ Backward_compatibility
+#cite_note-3.0-release-38
+ Backporting
+#cite_note-pep-3000-39
+#cite_note-40
+ End-of-life_(product)
+#cite_note-41
+#cite_note-42
+ Go_(programming_language)
+ Transcompiler
+#cite_note-43
+ Multi-paradigm_programming_language
+ Object-oriented_programming
+ Structured_programming
+ Functional_programming
+ Aspect-oriented_programming
+ Metaprogramming
+#cite_note-AutoNT-13-44
+ Metaobject
+#cite_note-AutoNT-14-45
+ Design_by_contract
+#cite_note-AutoNT-15-46
+#cite_note-AutoNT-16-47
+ Logic_programming
+#cite_note-AutoNT-17-48
+ Dynamic_typing
+ Reference_counting
+ Memory_management
+ Name_resolution_(programming_languages)
+ Late_binding
+ Functional_programming
+ Lisp_(programming_language)
+ List_comprehension
+ Associative_array
+ Generator_(computer_programming)
+#cite_note-AutoNT-59-49
+ Haskell_(programming_language)
+ Standard_ML
+#cite_note-AutoNT-18-50
+ Zen_of_Python
+ Aphorism
+#cite_note-PEP20-51
+ ABC_(programming_language)
+#cite_note-venners-interview-pt-1-32
+ Perl
+ Alex_Martelli
+#cite_note-AutoNT-19-52
+ There_is_more_than_one_way_to_do_it
+#cite_note-PEP20-51
+ Premature_optimization
+#cite_note-AutoNT-20-53
+ PyPy
+ Just-in-time_compilation
+ Cython
+ Monty_Python
+#cite_note-AutoNT-24-54
+ Spam_(Monty_Python)
+ Foobar
+#cite_note-55
+#cite_note-56
+ Neologism
+#cite_note-AutoNT-27-57
+#cite_note-AutoNT-25-58
+ Python_syntax_and_semantics
+ Curly_bracket_programming_language
+ C_(programming_language)
+ Pascal_(programming_language)
+#cite_note-AutoNT-52-59
+ Python_syntax_and_semantics#Indentation
+ Whitespace_character
+ Curly_bracket_programming_language
+ Block_(programming)
+#cite_note-AutoNT-53-60
+#cite_note-guttag-1
+ Off-side_rule
+ Statement_(computer_science)
+ Imperative_programming
+ C_(programming_language)
+ Memory_allocation
+ Variable_(computer_science)
+ Type_system
+ Pointer_(computer_programming)
+ Object_(computer_science)
+ Type_system
+ Dynamic_type
+ If-then-else
+ Foreach#Python
+ While_loop#Python
+ Exception_handling_syntax#Python
+ Class_(computer_science)
+ Object-oriented_programming
+ Function_(computing)
+ Method_(computing)
+#cite_note-61
+ Lock_(computer_science)
+ Computer_file
+ Resource_Acquisition_Is_Initialization
+#cite_note-62
+ NOP
+ Assertion_(programming)
+ Generator_(computer_science)#Python
+ Coroutine
+#cite_note-diff_py2-3-63
+ Tail_call
+ First-class_continuations
+#cite_note-AutoNT-55-64
+#cite_note-AutoNT-56-65
+ Coroutine
+ Generator_(computer_science)
+#cite_note-AutoNT-57-66
+ Lazy_evaluation
+ Iterator
+#cite_note-AutoNT-58-67
+ Expression_(computer_science)
+ C_(programming_language)
+ Java_(programming_language)
+#cite_note-68
+ Matrix_multiplication
+#cite_note-PEP465-69
+#cite_note-Python3.5Changelog-70
+#cite_note-71
+#cite_note-72
+ List_comprehension#Python
+ Generator_(computer_science)
+#cite_note-AutoNT-59-49
+ Anonymous_function
+ Lambda_(programming)
+#cite_note-AutoNT-60-73
+ %3F:
+ List_(computer_science)
+ Tuple
+ Immutable
+#cite_note-74
+ Wikipedia:Citation_needed
+ Printf
+ C_(programming_language)
+#cite_note-pep-0498-75
+ String_literal
+ Unix_shell
+ Perl
+ Escape_character
+ String_interpolation
+#cite_note-pep-0498-75
+ Here_document
+ Ruby_(programming_language)
+ Raw_string
+ Regular_expression
+ Microsoft_Windows
+ C_Sharp_(programming_language)
+ Array_index
+ Array_slicing
+ Zero-based
+ Shallow_copy
+ Common_Lisp
+ Scheme_(programming_language)
+ Ruby_(programming_language)
+ List_comprehensions
+ Conditional_(programming)
+ Lambda_(programming)
+ Method_(programming)
+ Function_(programming)
+ Syntactic_sugar
+ This_(computer_programming)
+ Instance_data
+ C%2B%2B
+ Java_(programming_language)
+ Objective-C
+ Ruby_(programming_language)
+#cite_note-AutoNT-61-76
+ Duck_typing
+ Compile_time
+ Type_system#Dynamic_type_checking_and_runtime_type_information
+ Strongly_typed_programming_language
+ Class_(computer_science)
+ Object-oriented_programming
+ Object_(computer_science)
+ Metaclass
+ Metaprogramming
+ Reflection_(computer_science)
+#cite_note-classy-77
+ Gradual_typing
+#cite_note-78
+#cite_note-79
+ Boolean_value
+ Byte
+ Complex_number
+ Associative_array
+ Ellipsis_(programming_operator)
+ NumPy
+ Floating_point
+ Set_(computer_science)
+ Integer_(computer_science)
+#cite_note-pep0237-80
+ List_(computer_science)
+ Set_(computer_science)
+ Immutable_object
+ Character_string
+#cite_note-81
+#cite_note-82
+#cite_note-83
+#cite_note-pep0238-84
+ Wikipedia:Please_clarify
+ Half-open_interval
+#cite_note-AutoNT-62-85
+ Rounding
+ Rounding#Tie-breaking
+#cite_note-AutoNT-63-86
+ Round_to_even
+#cite_note-AutoNT-64-87
+#cite_note-AutoNT-65-88
+#cite_note-CPL-89
+ Arbitrary_precision_arithmetic
+#cite_note-90
+#cite_note-91
+#cite_note-92
+ NumPy
+ Wikipedia:Citation_needed
+ Standard_library
+#cite_note-AutoNT-86-93
+ MIME
+ Hypertext_Transfer_Protocol
+ Graphical_user_interface
+ Relational_database
+ Pseudorandom_number_generator
+#cite_note-AutoNT-88-94
+ Regular_expression
+ Unit_testing
+ Web_Server_Gateway_Interface
+#cite_note-AutoNT-89-95
+//en.wikipedia.org/w/index.php?title=Python_(programming_language)&action=edit
+ Python_Package_Index
+#cite_note-96
+#cite_note-97
+#cite_note-98
+#cite_note-99
+ Comparison_of_integrated_development_environments#Python
+ Read%E2%80%93eval%E2%80%93print_loop
+ Command_line_interpreter
+ IDLE_(Python)
+ IPython
+ Syntax_highlighting
+ Integrated_development_environment
+ Web_browser
+ SageMath
+ PythonAnywhere
+#cite_note-100
+ List_of_Python_software#Python_implementations
+ CPython
+ Reference_implementation
+ C_(programming_language)
+ C89_(C_version)
+ C99
+#cite_note-AutoNT-66-101
+ Bytecode
+#cite_note-AutoNT-67-102
+ Virtual_machine
+#cite_note-AutoNT-68-103
+ Microsoft_Windows
+ Unix-like
+#cite_note-AutoNT-69-104
+ PyPy
+#cite_note-AutoNT-70-105
+ Just-in-time_compilation
+#cite_note-AutoNT-71-106
+ Stackless_Python
+ Microthread
+#cite_note-AutoNT-73-107
+ MicroPython
+ CircuitPython
+ Microcontroller
+ Unladen_Swallow
+ LLVM
+#cite_note-AutoNT-74-108
+ Psyco
+ Just-in-time_compilation
+ Run-time_algorithm_specialisation
+ Data_type
+ Nokia
+ Series_60
+ PyS60
+ Symbian
+ N900
+ GTK
+#cite_note-109
+ Object_language
+ Jython
+ Java_virtual_machine
+ IronPython
+ Common_Language_Runtime
+ RPython
+ C_(programming_language)
+ Java_bytecode
+ Common_Intermediate_Language
+ Pyjs
+ JavaScript
+ Cython
+ C_(programming_language)
+ C%2B%2B
+ C%2B%2B
+ Pyrex_(programming_language)
+ Shed_Skin
+ Go_(programming_language)
+ MyHDL
+ VHDL
+ Nuitka
+#cite_note-110
+#cite_note-111
+#cite_note-PepCite000-112
+ Benevolent_Dictator_For_Life
+#cite_note-PepCite000-112
+ Roundup_(issue_tracker)
+ Bug_tracker
+#cite_note-AutoNT-21-113
+ Self-hosted
+ Mercurial
+ GitHub
+#cite_note-py_dev_guide-114
+ Ported
+#cite_note-release-schedule-115
+#cite_note-AutoNT-22-116
+ Beta_release
+ Unit_test
+ BuildBot
+ Continuous_integration
+#cite_note-AutoNT-23-117
+#cite_note-118
+//en.wikipedia.org/w/index.php?title=Python_(programming_language)&action=edit
+ Python_Package_Index
+ Academic_conference
+ PyCon
+ Pyladies
+ Monty_Python
+#cite_note-tutorial-chapter1-119
+ Metasyntactic_variable
+ Spam_(Monty_Python)
+ Foobar
+#cite_note-tutorial-chapter1-119
+#cite_note-AutoNT-26-120
+#cite_note-121
+#cite_note-122
+ Pygame
+ Language_binding
+ Simple_DirectMedia_Layer
+ PyQt
+ PyGTK
+ Qt_(software)
+ GTK
+ PyPy
+ Sphinx_(documentation_generator)
+ Epydoc
+ HeaderDoc
+ Pydoc
+ List_of_Python_software
+ TIOBE_Programming_Community_Index
+//en.wikipedia.org/w/index.php?title=Python_(programming_language)&action=edit
+ Java_(programming_language)
+ C_(programming_language)
+ C%2B%2B
+#cite_note-123
+#cite_note-AutoNT-34-124
+#cite_note-AutoNT-28-125
+ Wikipedia
+ Google
+#cite_note-quotes-about-python-126
+ Yahoo!
+#cite_note-AutoNT-29-127
+ CERN
+#cite_note-AutoNT-30-128
+ NASA
+#cite_note-AutoNT-31-129
+ Facebook
+#cite_note-130
+ Amazon_(company)
+ Instagram
+ Spotify
+#cite_note-131
+ Industrial_Light_%26_Magic
+#cite_note-AutoNT-32-132
+ ITA_Software
+#cite_note-AutoNT-33-133
+ Reddit
+ Scripting_language
+ Web_application
+ Mod_wsgi
+ Apache_web_server
+#cite_note-AutoNT-35-134
+ Web_Server_Gateway_Interface
+ Web_framework
+ Django_(web_framework)
+ Pylons_(web_framework)
+ Pyramid_(web_framework)
+ TurboGears
+ Web2py
+ Tornado_(web_server)
+ Flask_(web_framework)
+ Bottle_(web_framework)
+ Zope
+ Pyjs
+ IronPython
+ SQLAlchemy
+ Data_mapper_pattern
+ Twisted_(software)
+ Dropbox_(service)
+ NumPy
+ SciPy
+ Matplotlib
+#cite_note-cise-135
+#cite_note-millman-136
+ Biopython
+ Astropy
+ SageMath
+ Mathematical_software
+/w/index.php?title=Electronic_Notebook&action=edit&redlink=1
+ Mathematics
+ Algebra
+ Combinatorics
+ Numerical_mathematics
+ Number_theory
+ Calculus
+ Finite_element_method
+ Abaqus
+ FreeCAD
+ 3ds_Max
+ Blender_(software)
+ Cinema_4D
+ Lightwave
+ Houdini_(software)
+ Maya_(software)
+ Modo_(software)
+ MotionBuilder
+ Autodesk_Softimage
+ Nuke_(software)
+ GIMP
+#cite_note-137
+ Inkscape
+ Scribus
+ Paint_Shop_Pro
+#cite_note-AutoNT-38-138
+ Musical_notation
+ Scorewriter
+ Capella_(notation_program)
+ GNU_Debugger
+ Prettyprint
+ Esri
+ ArcGIS
+#cite_note-AutoNT-39-139
+#cite_note-AutoNT-40-140
+#cite_note-AutoNT-41-141
+ Programming_language
+ Google_App_Engine
+ Java_(software_platform)
+ Go_(programming_language)
+#cite_note-AutoNT-42-142
+ Algorithmic_trading
+#cite_note-143
+#cite_note-144
+ Artificial_intelligence
+#cite_note-AutoNT-43-145
+#cite_note-AutoNT-44-146
+#cite_note-AutoNT-45-147
+#cite_note-AutoNT-46-148
+ Modular_programming
+ Natural_language_processing
+#cite_note-AutoNT-47-149
+ Linux_distribution
+ AmigaOS_4
+ FreeBSD
+ NetBSD
+ OpenBSD
+ MacOS
+ Ubuntu_(operating_system)
+ Ubiquity_(software)
+ Red_Hat_Linux
+ Fedora_(operating_system)
+ Anaconda_(installer)
+ Gentoo_Linux
+ Package_management_system
+ Portage_(software)
+ Information_security
+#cite_note-AutoNT-49-150
+#cite_note-AutoNT-50-151
+ Sugar_(software)
+ One_Laptop_per_Child
+ Sugar_Labs
+#cite_note-AutoNT-51-152
+ Raspberry_Pi
+ Single-board_computer
+ LibreOffice
+#cite_note-153
+ Boo_(programming_language)
+#cite_note-AutoNT-90-154
+ Cobra_(programming_language)
+#cite_note-AutoNT-91-155
+ Design_by_contract
+ Unit_testing
+ Static_typing
+#cite_note-AutoNT-92-156
+ CoffeeScript
+ ECMAScript
+ Iterator
+ Generator_(computer_science)
+#cite_note-AutoNT-93-157
+ Go_(programming_language)
+#cite_note-AutoNT-94-158
+ Groovy_(programming_language)
+ Java_(programming_language)
+#cite_note-AutoNT-95-159
+ Julia_(programming_language)
+ Hygienic_macro
+#cite_note-Julia-23
+ Kotlin_(programming_language)
+#cite_note-160
+ Ruby_(programming_language)
+ Yukihiro_Matsumoto
+#cite_note-linuxdevcenter-161
+ Swift_(programming_language)
+#cite_note-162
+ Gdscript
+ Tcl
+#cite_note-AutoNT-99-163
+ Erlang_(programming_language)
+#cite_note-AutoNT-100-164
+ TIOBE_index
+#cite_note-AutoNT-101-165
+ Portal:Free_software
+ Portal:Python_programming
+ History_of_Python
+ List_of_integrated_development_environments_for_Python
+ Comparison_of_programming_languages
+ List_of_programming_languages
+ Pip_(package_manager)
+ Off-side_rule
+#cite_ref-guttag_1-0
+#cite_ref-guttag_1-1
+ International_Standard_Book_Number
+ Special:BookSources/978-0-262-52962-4
+#cite_ref-2
+https://www.python.org/downloads/release/python-370/?hn
+#cite_ref-3
+https://blog.python.org/2018/05/python-2715-released.html
+#cite_ref-4
+https://www.python.org/dev/peps/pep-0483/
+#cite_ref-5
+https://www.python.org/dev/peps/pep-0488/
+#cite_ref-6
+https://www.python.org/dev/peps/pep-0441/
+#cite_ref-faq-created_7-0
+#cite_ref-faq-created_7-1
+https://docs.python.org/faq/general.html#why-was-python-created-in-the-first-place
+#cite_ref-98-interview_8-0
+https://web.archive.org/web/20070501105422/http://www.amk.ca/python/writing/gvr-interview
+http://www.amk.ca/python/writing/gvr-interview
+#cite_ref-9
+https://docs.python.org/3/library/itertools.html
+#cite_ref-AutoNT-1_10-0
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.2023
+#cite_ref-classmix_11-0
+#cite_ref-classmix_11-1
+https://docs.python.org/tutorial/classes.html
+#cite_ref-effbot-call-by-object_12-0
+http://effbot.org/zone/call-by-object.htm
+#cite_ref-AutoNT-2_13-0
+https://www.python.org/download/releases/2.3/mro/
+#cite_ref-AutoNT-3_14-0
+https://docs.python.org/howto/functional.html
+#cite_ref-AutoNT-4_15-0
+https://www.python.org/dev/peps/pep-0255/
+#cite_ref-AutoNT-5_16-0
+https://www.python.org/dev/peps/pep-0318/
+#cite_ref-AutoNT-6_17-0
+https://docs.python.org/3.2/tutorial/controlflow.html
+#cite_ref-18
+https://docs.python.org/3/library/itertools.html
+#cite_ref-19
+https://coffeescript.org/
+#cite_ref-20
+https://wiki.gnome.org/action/show/Projects/Genie
+#cite_ref-21
+http://www.2ality.com/2013/02/javascript-influences.html
+#cite_ref-22
+http://speakingjs.com/es5/ch03.html
+#cite_ref-Julia_23-0
+#cite_ref-Julia_23-1
+http://julialang.org/blog/2012/02/why-we-created-julia
+#cite_ref-The_Ring_programming_language_and_other_languages_24-0
+http://ring-lang.sourceforge.net/doc1.6/introduction.html#ring-and-other-languages
+/w/index.php?title=Ring-lang&action=edit&redlink=1
+#cite_ref-bini_25-0
+ International_Standard_Book_Number
+ Special:BookSources/978-1-59059-881-8
+#cite_ref-lattner2014_26-0
+http://nondot.org/sabre/
+#cite_ref-AutoNT-7_27-0
+https://web.archive.org/web/20120623165941/http://cutter.rexx.com/~dkuhlman/python_book_01.html
+http://cutter.rexx.com/~dkuhlman/python_book_01.html
+#cite_ref-28
+https://www.linuxjournal.com/content/guido-van-rossum-stepping-down-role-pythons-benevolent-dictator-life
+#cite_ref-29
+https://www.theinquirer.net/inquirer/news/3035842/python-boss-guido-van-rossum-steps-down-after-30-years
+http://www.theinquirer.net
+ Help:CS1_errors#param_has_ext_link
+#cite_ref-About_30-0
+https://www.python.org/about
+#cite_ref-31
+https://docs.python.org/3/license.html
+#cite_ref-venners-interview-pt-1_32-0
+#cite_ref-venners-interview-pt-1_32-1
+http://www.artima.com/intv/pythonP.html
+#cite_ref-timeline-of-python_33-0
+http://python-history.blogspot.com/2009/01/brief-timeline-of-python.html
+#cite_ref-AutoNT-12_34-0
+ Guido_van_Rossum
+http://mail.python.org/pipermail/python-dev/2000-August/008881.html
+#cite_ref-lj-bdfl-resignation_35-0
+https://www.linuxjournal.com/content/guido-van-rossum-stepping-down-role-pythons-benevolent-dictator-life
+#cite_ref-36
+https://www.python.org/doc/essays/foreword/
+#cite_ref-newin-2.0_37-0
+https://docs.python.org/whatsnew/2.0.html
+#cite_ref-3.0-release_38-0
+https://www.python.org/download/releases/3.0/
+#cite_ref-pep-3000_39-0
+https://www.python.org/dev/peps/pep-3000/
+#cite_ref-40
+https://docs.python.org/3/library/2to3.html
+#cite_ref-41
+https://legacy.python.org/dev/peps/pep-0373/
+#cite_ref-42
+https://www.python.org/dev/peps/pep-0466/
+#cite_ref-43
+https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html
+#cite_ref-AutoNT-13_44-0
+https://www.webcitation.org/5lubkaJRc?url=http://www.python.org/community/pycon/dc2004/papers/24/metaclasses-pycon.pdf
+https://www.python.org/community/pycon/dc2004/papers/24/metaclasses-pycon.pdf
+#cite_ref-AutoNT-14_45-0
+https://docs.python.org/3.0/reference/datamodel.html#special-method-names
+#cite_ref-AutoNT-15_46-0
+http://www.nongnu.org/pydbc/
+#cite_ref-AutoNT-16_47-0
+http://www.wayforward.net/pycontract/
+#cite_ref-AutoNT-17_48-0
+https://sites.google.com/site/pydatalog/
+#cite_ref-AutoNT-59_49-0
+#cite_ref-AutoNT-59_49-1
+https://www.python.org/dev/peps/pep-0289/
+#cite_ref-AutoNT-18_50-0
+https://docs.python.org/3/library/itertools.html
+#cite_ref-PEP20_51-0
+#cite_ref-PEP20_51-1
+https://www.python.org/dev/peps/pep-0020/
+#cite_ref-AutoNT-19_52-0
+http://shop.oreilly.com/product/9780596007973.do
+ O%27Reilly_Media
+ International_Standard_Book_Number
+ Special:BookSources/978-0-596-00797-3
+#cite_ref-AutoNT-20_53-0
+http://ebeab.com/2014/01/21/python-culture/
+#cite_ref-AutoNT-24_54-0
+https://docs.python.org/2/faq/general.html#why-is-it-called-python
+#cite_ref-55
+https://insidetech.monster.com/training/articles/8114-15-ways-python-is-a-powerful-force-on-the-web
+#cite_ref-56
+https://docs.python.org/2/library/pprint.html
+#cite_ref-AutoNT-27_57-0
+http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
+#cite_ref-AutoNT-25_58-0
+http://python.net/crew/mwh/hacks/objectthink.html
+#cite_ref-AutoNT-52_59-0
+https://docs.python.org/faq/general.html#is-python-a-good-language-for-beginning-programmers
+#cite_ref-AutoNT-53_60-0
+http://www.secnetix.de/~olli/Python/block_indentation.hawk
+#cite_ref-61
+https://www.python.org/download/releases/2.5/
+#cite_ref-62
+https://www.python.org/download/releases/2.5/highlights/
+#cite_ref-diff_py2-3_63-0
+https://inventwithpython.com/appendixa.html
+ International_Standard_Book_Number
+ Special:BookSources/978-0-9821060-1-3
+#cite_ref-AutoNT-55_64-0
+http://neopythonic.blogspot.be/2009/04/tail-recursion-elimination.html
+#cite_ref-AutoNT-56_65-0
+http://www.artima.com/weblogs/viewpost.jsp?thread=147358
+#cite_ref-AutoNT-57_66-0
+https://www.python.org/dev/peps/pep-0342/
+#cite_ref-AutoNT-58_67-0
+https://www.python.org/dev/peps/pep-0380/
+#cite_ref-68
+https://docs.python.org
+#cite_ref-PEP465_69-0
+https://www.python.org/dev/peps/pep-0465/
+#cite_ref-Python3.5Changelog_70-0
+https://www.python.org/downloads/release/python-351/
+#cite_ref-71
+https://docs.oracle.com/javase/specs/jls/se8/html/jls-15.html#jls-15.21.1
+ Oracle_Corporation
+#cite_ref-72
+https://docs.oracle.com/javase/specs/jls/se8/html/jls-15.html#jls-15.21.3
+#cite_ref-AutoNT-60_73-0
+https://www.python.org/dev/peps/pep-0308/
+#cite_ref-74
+https://docs.python.org/3/library/stdtypes.html#tuple
+#cite_ref-pep-0498_75-0
+#cite_ref-pep-0498_75-1
+https://www.python.org/dev/peps/pep-0498/
+#cite_ref-AutoNT-61_76-0
+https://docs.python.org/faq/design.html#why-must-self-be-used-explicitly-in-method-definitions-and-calls
+#cite_ref-classy_77-0
+https://docs.python.org/reference/datamodel.html#new-style-and-classic-classes
+#cite_ref-78
+https://lwn.net/Articles/627418/
+#cite_ref-79
+http://mypy-lang.org/
+#cite_ref-pep0237_80-0
+https://www.python.org/dev/peps/pep-0237/
+#cite_ref-81
+https://legacy.python.org/dev/peps/pep-0465/
+#cite_ref-82
+https://stackoverflow.com/questions/8305199/the-tilde-operator-in-python
+#cite_ref-83
+https://wiki.python.org/moin/BitwiseOperators
+#cite_ref-pep0238_84-0
+https://www.python.org/dev/peps/pep-0238/
+#cite_ref-AutoNT-62_85-0
+http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
+#cite_ref-AutoNT-63_86-0
+https://docs.python.org/library/functions.html#round
+#cite_ref-AutoNT-64_87-0
+https://docs.python.org/py3k/library/functions.html#round
+#cite_ref-AutoNT-65_88-0
+#cite_ref-CPL_89-0
+https://en.wikipedia.org The_C_Programming_Language
+#cite_ref-90
+https://docs.python.org/2.7/library/stdtypes.html
+#cite_ref-91
+https://www.python.org/dev/peps/pep-0327/
+#cite_ref-92
+https://docs.python.org/2.6/whatsnew/2.6.html
+#cite_ref-AutoNT-86_93-0
+http://www.oracle.com/technetwork/articles/piotrowski-pythoncore-084049.html
+#cite_ref-AutoNT-88_94-0
+https://www.python.org/dev/peps/pep-0327/
+#cite_ref-AutoNT-89_95-0
+https://www.python.org/dev/peps/pep-0333/
+#cite_ref-96
+http://www.modulecounts.com/
+#cite_ref-97
+https://likegeeks.com/python-web-scraping/
+#cite_ref-98
+https://stackoverflow.com/questions/7948494/whats-the-difference-between-a-python-module-and-a-python-package
+#cite_ref-99
+https://docs.python.org/3/index.html
+ Wikidata
+https://www.wikidata.org Q56718217
+https://docs.python.org/3/glossary.html#term-package
+#cite_ref-100
+https://www.enthought.com/products/canopy/
+#cite_ref-AutoNT-66_101-0
+https://www.python.org/dev/peps/pep-0007/
+#cite_ref-AutoNT-67_102-0
+https://docs.python.org/3/library/dis.html#python-bytecode-instructions
+#cite_ref-AutoNT-68_103-0
+http://www.troeger.eu/teaching/pythonvm08.pdf
+#cite_ref-AutoNT-69_104-0
+http://www.oreilly.com/pub/a/oreilly/frank/rossum_1099.html
+#cite_ref-AutoNT-70_105-0
+http://pypy.org/compat.html
+#cite_ref-AutoNT-71_106-0
+http://speed.pypy.org/
+#cite_ref-AutoNT-73_107-0
+http://doc.pypy.org/en/latest/stackless.html
+#cite_ref-AutoNT-74_108-0
+https://code.google.com/p/unladen-swallow ProjectPlan
+#cite_ref-109
+http://www.stochasticgeometry.ie/2010/04/29/python-on-the-nokia-n900/
+#cite_ref-110
+http://nuitka.net/
+#cite_ref-111
+ ArXiv
+//arxiv.org/abs/1404.6388
+ Bibcode
+http://adsabs.harvard.edu/abs/2014arXiv1404.6388M
+#cite_ref-PepCite000_112-0
+#cite_ref-PepCite000_112-1
+https://www.python.org/dev/peps/pep-0001/
+#cite_ref-AutoNT-21_113-0
+https://web.archive.org/web/20090601134342/http://www.python.org/dev/intro/
+https://www.python.org/dev/intro/
+#cite_ref-py_dev_guide_114-0
+https://docs.python.org/devguide/
+#cite_ref-release-schedule_115-0
+https://mail.python.org/pipermail/python-dev/2002-April/022739.html
+#cite_ref-AutoNT-22_116-0
+https://www.python.org/dev/peps/pep-0006/
+#cite_ref-AutoNT-23_117-0
+https://www.python.org/dev/buildbot/
+#cite_ref-118
+http://www.modulecounts.com/#
+#cite_ref-tutorial-chapter1_119-0
+#cite_ref-tutorial-chapter1_119-1
+https://docs.python.org/tutorial/appetite.html
+#cite_ref-AutoNT-26_120-0
+https://stackoverflow.com/questions/5033906/in-python-should-i-use-else-after-a-return-in-an-if-block
+ Stack_Overflow
+#cite_ref-121
+https://books.google.com/books?id=1HxWGezDZcgC&pg=PA17
+ International_Standard_Book_Number
+ Special:BookSources/9781449379322
+#cite_ref-122
+https://books.google.com/books?id=carqdIdfVlYC&pg=PR15
+ International_Standard_Book_Number
+ Special:BookSources/9780201748840
+#cite_ref-123
+http://www.tiobe.com/tiobe-index/
+#cite_ref-AutoNT-34_124-0
+http://www.tiobe.com/index.php/paperinfo/tpci/Python.html
+#cite_ref-AutoNT-28_125-0
+http://page.mi.fu-berlin.de/prechelt/Biblio/jccpprt_computer2000.pdf
+#cite_ref-quotes-about-python_126-0
+https://www.python.org/about/quotes/
+#cite_ref-AutoNT-29_127-0
+https://wiki.python.org/moin/OrganizationsUsingPython
+#cite_ref-AutoNT-30_128-0
+http://cdsweb.cern.ch/journal/CERNBulletin/2006/31/News%20Articles/974627?ln=en
+#cite_ref-AutoNT-31_129-0
+https://www.python.org/about/success/usa/
+#cite_ref-130
+https://developers.facebook.com/blog/post/301
+#cite_ref-131
+https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/
+#cite_ref-AutoNT-32_132-0
+https://www.python.org/about/success/ilm/
+#cite_ref-AutoNT-33_133-0
+http://www.eweek.com/c/a/Application-Development/Python-Slithers-into-Systems/
+#cite_ref-AutoNT-35_134-0
+http://w3techs.com/technologies/details/pl-python/all/all
+#cite_ref-cise_135-0
+https://www.h2desk.com/blog/python-scientific-computing/
+#cite_ref-millman_136-0
+http://www.computer.org/csdl/mags/cs/2011/02/mcs2011020009.html
+#cite_ref-137
+https://web.archive.org/web/20130717070814/http://gimp-win.sourceforge.net/faq.html
+http://gimp-win.sourceforge.net/faq.html
+#cite_ref-AutoNT-38_138-0
+https://web.archive.org/web/20080319061519/http://www.jasc.com/support/customercare/articles/psp9components.asp
+http://www.jasc.com/support/customercare/articles/psp9components.asp
+#cite_ref-AutoNT-39_139-0
+http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=About_getting_started_with_writing_geoprocessing_scripts
+#cite_ref-AutoNT-40_140-0
+http://community.eveonline.com/news/dev-blogs/stackless-python-2.7/
+ CCP_Games
+#cite_ref-AutoNT-41_141-0
+https://www.webcitation.org/5ru5VItfv?url=http://www.2kgames.com/civ4/blog_03.htm
+ Firaxis_Games
+http://www.2kgames.com/civ4/blog_03.htm
+#cite_ref-AutoNT-42_142-0
+https://www.webcitation.org/5ru5FHxfV?url=http://code.google.com/apis/documents/docs/1.0/developers_guide_python.html
+https://code.google.com/apis/documents/docs/1.0/developers_guide_python.html
+#cite_ref-143
+http://www.quantinsti.com/blog/python-best-programming-language-algorithmic-trading/
+#cite_ref-144
+http://www.quantinsti.com/blog/ibpy-tutorial-implement-python-interactive-brokers-api/
+#cite_ref-AutoNT-43_145-0
+https://web.archive.org/web/20121101045354/http://wiki.python.org/moin/PythonForArtificialIntelligence
+https://wiki.python.org/moin/PythonForArtificialIntelligence
+#cite_ref-AutoNT-44_146-0
+http://www.ainewsletter.com/newsletters/aix_0508.htm#python_ai_ai
+#cite_ref-AutoNT-45_147-0
+https://pypi.python.org/pypi/PyAIML
+#cite_ref-AutoNT-46_148-0
+ Stuart_J._Russell
+ Peter_Norvig
+http://aima.cs.berkeley.edu/
+ International_Standard_Book_Number
+ Special:BookSources/978-0-13-604259-4
+#cite_ref-AutoNT-47_149-0
+http://www.nltk.org
+#cite_ref-AutoNT-49_150-0
+https://web.archive.org/web/20090216134332/http://immunitysec.com/products-immdbg.shtml
+http://www.immunitysec.com/products-immdbg.shtml
+#cite_ref-AutoNT-50_151-0
+http://oss.coresecurity.com/
+#cite_ref-AutoNT-51_152-0
+http://sugarlabs.org/go/Sugar
+#cite_ref-153
+http://www.libreoffice.org/download/4-0-new-features-and-fixes/
+ The_Document_Foundation
+#cite_ref-AutoNT-90_154-0
+https://web.archive.org/web/20081211062108/http://boo.codehaus.org/Gotchas+for+Python+Users
+http://boo.codehaus.org/Gotchas+for+Python+Users
+#cite_ref-AutoNT-91_155-0
+http://cobra-language.com/docs/acknowledgements/
+#cite_ref-AutoNT-92_156-0
+http://cobra-language.com/docs/python/
+#cite_ref-AutoNT-93_157-0
+https://web.archive.org/web/20071020082650/http://wiki.ecmascript.org/doku.php?id=proposals:iterators_and_generators
+http://wiki.ecmascript.org/doku.php?id=proposals:iterators_and_generators
+#cite_ref-AutoNT-94_158-0
+https://techcrunch.com/2009/11/10/google-go-language/
+#cite_ref-AutoNT-95_159-0
+http://radio.weblogs.com/0112098/2003/08/29.html
+#cite_ref-160
+https://kotlinlang.org/docs/tutorials/command-line.html
+#cite_ref-linuxdevcenter_161-0
+http://www.linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html
+#cite_ref-162
+ Chris_Lattner
+http://nondot.org/sabre
+#cite_ref-AutoNT-99_163-0
+http://www.tcl.tk/cgi-bin/tct/tip/3.html
+#cite_ref-AutoNT-100_164-0
+http://www.erlang.org/eeps/eep-0001.html
+#cite_ref-AutoNT-101_165-0
+http://www.tiobe.com/index.php/content/paperinfo/tpci/
+http://www.greenteapress.com/thinkpython/html/
+ International_Standard_Book_Number
+ Special:BookSources/978-0-521-72596-5
+https://web.archive.org/web/20081229095320/http://www.computerworld.com.au/index.php/id%3B66665771
+http://www.computerworld.com.au/index.php/id;66665771
+http://shop.oreilly.com/product/0636920028154.do
+ International_Standard_Book_Number
+ Special:BookSources/978-0-596-15806-4
+http://diveintopython.net
+ International_Standard_Book_Number
+ Special:BookSources/978-1-59059-356-1
+https://web.archive.org/web/20111017050617/http://www.diveintopython3.net/
+ International_Standard_Book_Number
+ Special:BookSources/978-1-4302-2415-0
+http://diveintopython3.net
+http://www.qtrac.eu/py3book.html
+ International_Standard_Book_Number
+ Special:BookSources/978-0-321-68056-3
+ Wikipedia:Wikimedia_sister_projects
+https://commons.wikimedia.org Category:Python_(programming_language)
+https://en.wikiquote.org Python
+https://en.wikibooks.org Python_Programming
+https://en.wikiversity.org Python
+https://www.python.org/
+https://www.wikidata.org Q28865#P856
+https://curlie.org/Computers/Programming/Languages/Python
+ DMOZ
+ Template:Programming_languages
+ Template_talk:Programming_languages
+//en.wikipedia.org/w/index.php?title=Template:Programming_languages&action=edit
+ Programming_language
+ Comparison_of_programming_languages
+ Timeline_of_programming_languages
+ History_of_programming_languages
+ APL_(programming_language)
+ Assembly_language
+ BASIC
+ C_(programming_language)
+ C%2B%2B
+ C_Sharp_(programming_language)
+ COBOL
+ Fortran
+ Go_(programming_language)
+ Apache_Groovy
+ Haskell_(programming_language)
+ Java_(programming_language)
+ JavaScript
+ Kotlin_(programming_language)
+ Lisp_(programming_language)
+ Lua_(programming_language)
+ Objective-C
+ Pascal_(programming_language)
+ Perl
+ PHP
+None
+ Ruby_(programming_language)
+ Rust_(programming_language)
+ Shell_script
+ Smalltalk
+ Swift_(programming_language)
+ Visual_Basic_.NET
+ List_of_programming_languages
+ Category:Programming_languages
+ List_of_programming_languages
+ List_of_programming_languages_by_type
+ Generational_list_of_programming_languages
+ Non-English-based_programming_languages
+ Template:Python_(programming_language)
+ Template_talk:Python_(programming_language)
+//en.wikipedia.org/w/index.php?title=Template:Python_(programming_language)&action=edit
+None
+ Programming_language_implementation
+ CircuitPython
+ CLPython
+ CPython
+ Cython
+ MicroPython
+ Numba
+ IronPython
+ Jython
+ Psyco
+ PyPy
+ Python_for_S60
+ Shed_Skin
+ Stackless_Python
+ Unladen_Swallow
+ List_of_Python_software#Python_implementations
+ File:Python-logo-notext.svg
+ Integrated_development_environment
+ Comparison_of_integrated_development_environments#Python
+ Eric_Python_IDE
+ IDLE_(Python)
+ PyCharm
+ PyDev
+ Stani%27s_Python_Editor
+ Ninja-IDE
+ List_of_integrated_development_environments_for_Python#Python
+ Web_Server_Gateway_Interface
+ List_of_Python_software
+ Python_Software_Foundation
+ Python_Conference
+ Template:Python_web_frameworks
+ Template_talk:Python_web_frameworks
+//en.wikipedia.org/w/index.php?title=Template:Python_web_frameworks&action=edit
+None
+ Web_framework
+ Zope#BlueBream
+ Bottle_(web_framework)
+ CherryPy
+ Django_(web_framework)
+ Flask_(web_framework)
+ Grok_(web_framework)
+ Nagare_(web_framework)
+ Nevow
+ Pyjs
+ Pylons_project#Pylons_Framework
+ Pylons_project#Pyramid
+ Quixote_(web_framework)
+ Spyce_(software)
+ TACTIC_(web_framework)
+ Tornado_(web_server)
+ TurboGears
+ Twisted_(software)
+ Webware_for_Python
+ Web2py
+ Zope#Zope_2
+ Category:Python_web_frameworks
+ Template:FOSS
+ Template_talk:FOSS
+//en.wikipedia.org/w/index.php?title=Template:FOSS&action=edit
+ Free_and_open-source_software
+ Alternative_terms_for_free_software
+ Comparison_of_open-source_and_closed-source_software
+ Comparison_of_source_code_hosting_facilities
+ Free_software
+ List_of_free_software_project_directories
+ Gratis_versus_libre
+ Long-term_support
+ Open-source_software
+ Open-source_software_development
+ Outline_of_free_software
+ List_of_free_and_open-source_software_packages
+ Comparison_of_free_software_for_audio
+ List_of_open-source_bioinformatics_software
+ List_of_open-source_codecs
+ List_of_collaborative_software#Open_source_software
+ Comparison_of_open-source_configuration_management_software
+ Device_driver#Open_drivers
+ Free_and_open-source_graphics_device_driver
+ Comparison_of_open-source_wireless_drivers
+ Comparison_of_free_geophysics_software
+ List_of_open-source_health_software
+ List_of_open-source_software_for_mathematics
+ Comparison_of_open-source_operating_systems
+ Comparison_of_open-source_programming_language_licensing
+ List_of_open-source_routing_platforms
+ List_of_statistical_packages#Open-source_statistical_packages
+ List_of_free_television_software
+ List_of_open-source_video_games
+ List_of_free_software_web_applications
+ List_of_content_management_systems#Open_source_software
+ Comparison_of_shopping_cart_software
+ List_of_word_processors#Free_and_open-source_software
+ List_of_free_and_open-source_Android_applications
+ List_of_free_and_open-source_iOS_applications
+ List_of_commercial_open-source_applications_and_services
+ List_of_trademarked_open-source_software
+ List_of_formerly_proprietary_software
+ Free_software_movement
+ History_of_free_and_open-source_software
+ Open-source_software_movement
+ List_of_free_and_open-source_software_organizations
+ List_of_free-software_events
+ Free_software_license
+ Academic_Free_License
+ Apache_License
+ Apple_Public_Source_License
+ Artistic_License
+ Beerware
+ Boost_Software_License
+ BSD_licenses
+ Creative_Commons_license#Zero_/_public_domain
+ Common_Development_and_Distribution_License
+ Eclipse_Public_License
+ Free_Software_Foundation
+ GNU_General_Public_License
+ GNU_Lesser_General_Public_License
+ ISC_license
+ MIT_License
+ Mozilla_Public_License
+ Source-available_software#Open_Source_licenses
+ Python_License
+ Python_Software_Foundation_License
+ Sleepycat_License
+ Unlicense
+ WTFPL
+ Zlib_License
+ Comparison_of_free_and_open-source_software_licenses
+ Contributor_License_Agreement
+ Copyleft
+ Debian_Free_Software_Guidelines
+ Definition_of_Free_Cultural_Works
+ Free_license
+ The_Free_Software_Definition
+ The_Open_Source_Definition
+ Open-source_license
+ Permissive_software_licence
+ Public_domain
+ Viral_license
+ Binary_blob
+ Digital_rights_management
+ Hardware_restriction
+ License_proliferation
+ Mozilla_software_rebranded_by_Debian
+ Proprietary_software
+ SCO%E2%80%93Linux_disputes
+ UEFI_Secure_Boot#Secure_boot
+ Software_patents_and_free_software
+ Open-source_software_security
+ Trusted_Computing
+ Fork_(software_development)
+ GNU_Manifesto
+ Microsoft_Open_Specification_Promise
+ Open-core_model
+ Open-source_hardware
+ Shared_Source_Initiative
+ Source-available_software
+ The_Cathedral_and_the_Bazaar
+ Revolution_OS
+ Book:Free_and_Open_Source_Software
+ Category:Free_software
+https://commons.wikimedia.org Category:Free_software
+ Portal:Free_and_open-source_software
+ Help:Authority_control
+https://www.wikidata.org Q28865
+ Biblioth%C3%A8que_nationale_de_France
+http://catalogue.bnf.fr/ark:/12148/cb13560465c
+http://data.bnf.fr/ark:/12148/cb13560465c
+ Integrated_Authority_File
+https://d-nb.info/gnd/4434275-5
+ Library_of_Congress_Control_Number
+http://id.loc.gov/authorities/subjects/sh96008834
+ Syst%C3%A8me_universitaire_de_documentation
+https://www.idref.fr/051626225
+https://en.wikipedia.org/w/index.php?title=Python_(programming_language)&oldid=861636160
+ Help:Category
+ Category:Programming_languages
+ Category:Class-based_programming_languages
+ Category:Computational_notebook
+ Category:Computer_science_in_the_Netherlands
+ Category:Cross-platform_free_software
+ Category:Dutch_inventions
+ Category:Dynamically_typed_programming_languages
+ Category:Educational_programming_languages
+ Category:High-level_programming_languages
+ Category:Information_technology_in_the_Netherlands
+ Category:Object-oriented_programming_languages
+ Category:Programming_languages_created_in_1991
+ Category:Python_(programming_language)
+ Category:Scripting_languages
+ Category:Text-oriented_programming_languages
+ Category:Cross-platform_software
+ Category:CS1_errors:_external_links
+ Category:Wikipedia_semi-protected_pages
+ Category:All_articles_with_unsourced_statements
+ Category:Articles_with_unsourced_statements_from_October_2017
+ Category:Wikipedia_articles_needing_clarification_from_May_2018
+ Category:Articles_with_unsourced_statements_from_May_2018
+ Category:Articles_containing_potentially_dated_statements_from_March_2018
+ Category:All_articles_containing_potentially_dated_statements
+ Category:Articles_containing_potentially_dated_statements_from_August_2016
+ Category:Articles_containing_potentially_dated_statements_from_January_2018
+ Category:Articles_with_Curlie_links
+ Category:Wikipedia_articles_with_BNF_identifiers
+ Category:Wikipedia_articles_with_GND_identifiers
+ Category:Wikipedia_articles_with_LCCN_identifiers
+ Category:Wikipedia_articles_with_SUDOC_identifiers
+ Category:Good_articles
+ Category:Use_dmy_dates_from_August_2015
+ Special:MyTalk
+ Special:MyContributions
+/w/index.php?title=Special:CreateAccount&returnto=Python+%28programming+language%29
+/w/index.php?title=Special:UserLogin&returnto=Python+%28programming+language%29
+ Python_(programming_language)
+ Talk:Python_(programming_language)
+ Python_(programming_language)
+/w/index.php?title=Python_(programming_language)&action=edit
+/w/index.php?title=Python_(programming_language)&action=history
+ Main_Page
+ Main_Page
+ Portal:Contents
+ Portal:Featured_content
+ Portal:Current_events
+ Special:Random
+https://donate.wikimedia.org Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+//shop.wikimedia.org
+ Help:Contents
+ Wikipedia:About
+ Wikipedia:Community_portal
+ Special:RecentChanges
+//en.wikipedia.org Wikipedia:Contact_us
+ Special:WhatLinksHere/Python_(programming_language)
+ Special:RecentChangesLinked/Python_(programming_language)
+ Wikipedia:File_Upload_Wizard
+ Special:SpecialPages
+/w/index.php?title=Python_(programming_language)&oldid=861636160
+/w/index.php?title=Python_(programming_language)&action=info
+https://www.wikidata.org Special:EntityPage/Q28865
+/w/index.php?title=Special:CiteThisPage&page=Python_%28programming_language%29&id=861636160
+/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Python+%28programming+language%29
+/w/index.php?title=Special:ElectronPdf&page=Python+%28programming+language%29&action=show-download-screen
+/w/index.php?title=Python_(programming_language)&printable=yes
+https://commons.wikimedia.org Category:Python_(programming_language)
+https://en.wikibooks.org Python_Programming
+https://en.wikiquote.org Python
+https://en.wikiversity.org Python
+https://af.wikipedia.org Python_(programmeertaal)
+https://als.wikipedia.org Python_(Programmiersprache)
+https://ar.wikipedia.org %D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86
+https://an.wikipedia.org Python
+https://as.wikipedia.org %E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8
+https://ast.wikipedia.org Python
+https://az.wikipedia.org Python_(proqramla%C5%9Fd%C4%B1rma_dili)
+https://azb.wikipedia.org %D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86
+https://bn.wikipedia.org %E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8_(%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE)
+https://zh-min-nan.wikipedia.org Python
+https://be.wikipedia.org Python_(%D0%BC%D0%BE%D0%B2%D0%B0_%D0%BF%D1%80%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+https://bg.wikipedia.org Python
+https://bs.wikipedia.org Python_(programski_jezik)
+https://ca.wikipedia.org Python
+https://ceb.wikipedia.org Python_(programming_language)
+https://cs.wikipedia.org Python
+https://da.wikipedia.org Python_(programmeringssprog)
+https://de.wikipedia.org Python_(Programmiersprache)
+https://et.wikipedia.org Python_(programmeerimiskeel)
+https://el.wikipedia.org Python
+https://es.wikipedia.org Python
+https://eo.wikipedia.org Python_(programlingvo)
+https://eu.wikipedia.org Python_(informatika)
+https://fa.wikipedia.org %D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86_(%D8%B2%D8%A8%D8%A7%D9%86_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C)
+https://fr.wikipedia.org Python_(langage)
+https://gl.wikipedia.org Python
+https://gu.wikipedia.org %E0%AA%AA%E0%AA%BE%E0%AA%AF%E0%AA%A5%E0%AB%8B%E0%AA%A8(%E0%AA%AA%E0%AB%8D%E0%AA%B0%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%B0%E0%AA%BE%E0%AA%AE%E0%AA%BF%E0%AA%82%E0%AA%97_%E0%AA%AD%E0%AA%BE%E0%AA%B7%E0%AA%BE)
+https://ko.wikipedia.org %ED%8C%8C%EC%9D%B4%EC%8D%AC
+https://hy.wikipedia.org Python
+https://hi.wikipedia.org %E0%A4%AA%E0%A4%BE%E0%A4%87%E0%A4%A5%E0%A4%A8
+https://hr.wikipedia.org Python_(programski_jezik)
+https://id.wikipedia.org Python_(bahasa_pemrograman)
+https://ia.wikipedia.org Python_(linguage_de_programmation)
+https://is.wikipedia.org Python_(forritunarm%C3%A1l)
+https://it.wikipedia.org Python
+https://he.wikipedia.org %D7%A4%D7%99%D7%99%D7%AA%D7%95%D7%9F
+https://ka.wikipedia.org %E1%83%9E%E1%83%98%E1%83%97%E1%83%9D%E1%83%9C%E1%83%98_(%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%9B%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%94%E1%83%9C%E1%83%90)
+https://kk.wikipedia.org Python
+https://ky.wikipedia.org Python
+https://la.wikipedia.org Python_(lingua_programmandi)
+https://lv.wikipedia.org Python
+https://lt.wikipedia.org Python
+https://jbo.wikipedia.org paiton
+https://lmo.wikipedia.org Python
+https://hu.wikipedia.org Python_(programoz%C3%A1si_nyelv)
+https://mk.wikipedia.org %D0%9F%D0%B0%D1%98%D1%82%D0%BE%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA)
+https://ml.wikipedia.org %E0%B4%AA%E0%B5%88%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%BA_(%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%AE%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%8D_%E0%B4%AD%E0%B4%BE%E0%B4%B7)
+https://mr.wikipedia.org %E0%A4%AA%E0%A4%BE%E0%A4%AF%E0%A4%A5%E0%A5%89%E0%A4%A8
+https://ms.wikipedia.org Python
+https://mn.wikipedia.org Python
+https://my.wikipedia.org Python_(programming_language)
+https://nl.wikipedia.org Python_(programmeertaal)
+https://ne.wikipedia.org %E0%A4%AA%E0%A4%BE%E0%A4%87%E0%A4%A5%E0%A4%A8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%99%E0%A5%8D%E0%A4%97_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE
+https://ja.wikipedia.org Python
+https://no.wikipedia.org Python
+https://nn.wikipedia.org Python
+https://or.wikipedia.org %E0%AC%AA%E0%AC%BE%E0%AC%87%E0%AC%A5%E0%AC%A8%E0%AD%8D_(%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%97%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%AE%E0%AC%BF%E0%AC%82_%E0%AC%AD%E0%AC%BE%E0%AC%B7%E0%AC%BE)
+https://uz.wikipedia.org Python
+https://pnb.wikipedia.org %D9%BE%D8%A7%D8%A6%DB%8C%D8%AA%DA%BE%D9%86_(%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%B9%D8%B1_%D8%A8%D9%88%D9%84%DB%8C)
+https://km.wikipedia.org %E1%9E%95%E1%9E%B6%E1%9E%99%E1%9E%90%E1%9E%BB%E1%9E%93
+https://nds.wikipedia.org Python_(Programmeerspraak)
+https://pl.wikipedia.org Python
+https://pt.wikipedia.org Python
+https://ro.wikipedia.org Python
+https://ru.wikipedia.org Python
+https://sco.wikipedia.org Python_(programmin_leid)
+https://sq.wikipedia.org Python
+https://si.wikipedia.org %E0%B6%B4%E0%B6%BA%E0%B7%92%E0%B6%AD%E0%B6%B1%E0%B7%8A
+https://simple.wikipedia.org Python_(programming_language)
+https://sk.wikipedia.org Python_(programovac%C3%AD_jazyk)
+https://sl.wikipedia.org Python_(programski_jezik)
+https://ckb.wikipedia.org %D9%BE%D8%A7%DB%8C%D8%AA%D9%86_(%D8%B2%D9%85%D8%A7%D9%86%DB%8C_%D8%A8%DB%95%D8%B1%D9%86%D8%A7%D9%85%DB%95%D8%B3%D8%A7%D8%B2%DB%8C)
+https://sr.wikipedia.org %D0%9F%D0%B0%D1%98%D1%82%D0%BE%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA)
+https://sh.wikipedia.org Python_programski_jezik
+https://fi.wikipedia.org Python_(ohjelmointikieli)
+https://sv.wikipedia.org Python_(programspr%C3%A5k)
+https://tl.wikipedia.org Python_(wikang_pamprograma)
+https://ta.wikipedia.org %E0%AE%AA%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D
+https://te.wikipedia.org %E0%B0%AA%E0%B1%88%E0%B0%A5%E0%B0%BE%E0%B0%A8%E0%B1%8D_(%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%8D_%E0%B0%AD%E0%B0%BE%E0%B0%B7)
+https://th.wikipedia.org %E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%9E%E0%B8%97%E0%B8%AD%E0%B8%99
+https://tg.wikipedia.org Python
+https://tr.wikipedia.org Python_(programlama_dili)
+https://bug.wikipedia.org Python
+https://uk.wikipedia.org Python
+https://ur.wikipedia.org %D9%BE%D8%A7%D8%A6%DB%8C%D8%AA%DA%BE%D9%86_(%D9%BE%D8%B1%D9%88%DA%AF%D8%B1%D8%A7%D9%85%D9%86%DA%AF_%D8%B2%D8%A8%D8%A7%D9%86)
+https://vi.wikipedia.org Python_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)
+https://wuu.wikipedia.org Python
+https://zh-yue.wikipedia.org Python
+https://zh.wikipedia.org Python
+https://www.wikidata.org Special:EntityPage/Q28865#sitelinks-wikipedia
+//en.wikipedia.org Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+//creativecommons.org/licenses/by-sa/3.0/
+//foundation.wikimedia.org Terms_of_Use
+//foundation.wikimedia.org Privacy_policy
+//www.wikimediafoundation.org/
+https://foundation.wikimedia.org Privacy_policy
+ Wikipedia:About
+ Wikipedia:General_disclaimer
+//en.wikipedia.org Wikipedia:Contact_us
+https://www.mediawiki.org Special:MyLanguage/How_to_contribute
+https://foundation.wikimedia.org Cookie_statement
+//en.m.wikipedia.org/w/index.php?title=Python_(programming_language)&mobileaction=toggle_view_mobile
+https://wikimediafoundation.org/
+//www.mediawiki.org/
