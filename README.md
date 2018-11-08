@@ -5,5 +5,5 @@ Lab Assignment 1:https://github.com/Kamaltejveerapaneni/Python-and-Deep-Learning
 
 Lab Assignment 2:https://github.com/Kamaltejveerapaneni/Python-and-Deep-Learning/wiki/Lab-Assignment-2
 
-
+Lab Assignment 3:https://github.com/Kamaltejveerapaneni/Python-and-Deep-Learning/wiki/Deep-Learning-Lab-1
 
